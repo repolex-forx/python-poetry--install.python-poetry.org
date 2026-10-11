@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-poetry/install.python-poetry.org/commit/458b4019ae9b22c1d0334e71259660722f4c5b33",
       "git:hexsha": "458b4019ae9b22c1d0334e71259660722f4c5b33",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
